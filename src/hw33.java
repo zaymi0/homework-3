@@ -23,11 +23,5 @@ public class hw33 {
         System.out.println(str.replace('h', 'a'));
 
         System.out.println(str1.contains(str));
-
-
-
-
-
-
     }
 }
