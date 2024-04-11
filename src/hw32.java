@@ -12,7 +12,7 @@ public class hw32 {
         long num4 = 8;
         System.out.println(num4);
 
-        float num5 = 4;
+        float num5 = 4f;
         System.out.println(num5);
 
         double num6 = 8;

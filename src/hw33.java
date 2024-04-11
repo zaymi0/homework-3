@@ -23,5 +23,16 @@ public class hw33 {
         System.out.println(str.replace('h', 'a'));
 
         System.out.println(str1.contains(str));
+
+        System.out.println(str.isEmpty());
+
+        System.out.println(str.toLowerCase());
+
+        String.format("");
+
+        StringBuffer ccc = new StringBuffer("Привет");
+        ccc.append(" kmfvlkflvkem");
+        System.out.println(ccc);
+
     }
 }
